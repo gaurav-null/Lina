@@ -5,5 +5,5 @@ To run this script
 then run the file using
 ``` ./meBlocker.sh ```
 Make sure the me_block.txt is in the same directory as the sh file for it to work
-If any vurnubality or bad code please report me on my mail - gauravrn02@gmail.com
+If any vurnubality or bad code please report
 Would love if u star this repo.
